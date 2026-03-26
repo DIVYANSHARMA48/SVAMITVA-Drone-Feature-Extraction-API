@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+segmentation-models-pytorch
+albumentations
+opencv-python-headless
+pillow
+python-multipart
+rasterio
+git+https://github.com/openai/CLIP.git
+open-clip-torch
+ftfy
+regex
+tqdm
+numpy
